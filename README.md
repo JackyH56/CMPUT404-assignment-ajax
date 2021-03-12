@@ -1,3 +1,5 @@
+Running this on the firefox will sometimes show Error:TypeError, could not figure out where the bug came from. Works fine on google chrome.
+
 CMPUT404-assignment-ajax
 ==============================
 
