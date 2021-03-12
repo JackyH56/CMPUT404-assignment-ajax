@@ -1,4 +1,4 @@
-Running this on the firefox will sometimes show Error:TypeError, could not figure out where the bug came from. Works fine on google chrome.
+**Running this on the Firefox will sometimes show Error:TypeError, could not figure out where the bug came from. If the error pops up, you can check the option for "Prevent this page from creating additional dialogues" and you should be able to draw. Works fine on Google Chrome from what I've tested.**
 
 CMPUT404-assignment-ajax
 ==============================
